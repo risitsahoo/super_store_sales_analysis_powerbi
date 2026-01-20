@@ -1,34 +1,25 @@
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Desktop-orange?style=for-the-badge&logo=power-bi" alt="Power BI Badge" />
-  <img src="https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge&logo=power-bi" alt="DAX Badge" />
-  <img src="https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge&logo=tableau" alt="Data Analysis Badge" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-purple?style=for-the-badge&logo=looker" alt="BI Badge" />
-</p>
-
 # 📊 Super Store Sales Analysis
 
 **End-to-End Data Analytics & Business Intelligence Project (Power BI)**
 
 ---
 
-<details>
-<summary><b>Table of Contents</b> (click to expand)</summary>
+## 📑 Table of Contents
 
-- <a href="📌 project-overview">Project Overview</a>  
-- <a href="❗ business-problem-statement">Business Problem Statement</a>  
-- <a href="📂 dataset--preparation">Dataset & Preparation</a>  
-- <a href="🛠 tools-techniques">Tools, Techniques</a>  
-- <a href="🔧 methods-and-power-bi-implementation">Methods and Power BI Implementation</a>  
-- <a href="📂 files-in-this-repository">Files in This Repository</a>  
-- <a href="🖼 dashboard">Dashboard</a>  
-- <a href="▶ how-to-run-the-project">How to Run the Project</a>  
-- <a href="📈 key-insights--findings">Key Insights & Findings</a>  
-- <a href="🔮 future-work--business-recommendations">Future Work / Business Recommendations</a>  
-- <a href="🏁 conclusion">Conclusion</a>  
-- <a href="👤 contact">Contact</a>  
+## 📑 Table of Contents
 
-</details>
+- [Project Overview](#project-overview)  
+- [Business Problem Statement](#business-problem-statement)  
+- [Dataset & Preparation](#dataset--preparation)  
+- [Tools, Techniques](#tools-techniques)  
+- [Methods and Power BI Implementation](#methods-and-power-bi-implementation)  
+- [Files in This Repository](#files-in-this-repository)  
+- [Dashboard](#dashboard)  
+- [How to Run the Project](#how-to-run-the-project)  
+- [Key Insights & Findings](#key-insights--findings)  
+- [Future Work / Business Recommendations](#future-work--business-recommendations)  
+- [Conclusion](#conclusion)  
+- [Contact](#contact)  
 
 ---
 
