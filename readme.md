@@ -6,8 +6,6 @@
 
 ## 📑 Table of Contents
 
-## 📑 Table of Contents
-
 - [Project Overview](#-project-overview)  
 - [Business Problem Statement](#-business-problem-statement)  
 - [Dataset & Preparation](#-dataset--preparation)  
@@ -116,7 +114,7 @@ Below is the Power BI dashboard developed as part of this project:
 
 📌 **Dashboard Screenshot:**
 
-![Super Store Sales Dashboard](screenshots/Super-Store-Sales-Dashboard-Image.png)
+![Super Store Sales Dashboard](super_store_sales_analysis_dashboard_image.png)
 
 ---
 
