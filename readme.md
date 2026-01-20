@@ -8,18 +8,18 @@
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)  
-- [Business Problem Statement](#business-problem-statement)  
-- [Dataset & Preparation](#dataset--preparation)  
-- [Tools, Techniques](#tools-techniques)  
-- [Methods and Power BI Implementation](#methods-and-power-bi-implementation)  
-- [Files in This Repository](#files-in-this-repository)  
-- [Dashboard](#dashboard)  
-- [How to Run the Project](#how-to-run-the-project)  
-- [Key Insights & Findings](#key-insights--findings)  
-- [Future Work / Business Recommendations](#future-work--business-recommendations)  
-- [Conclusion](#conclusion)  
-- [Contact](#contact)  
+- [Project Overview](#-project-overview)  
+- [Business Problem Statement](#-business-problem-statement)  
+- [Dataset & Preparation](#-dataset--preparation)  
+- [Tools, Techniques](#-tools-techniques)  
+- [Methods and Power BI Implementation](#-methods-and-power-bi-implementation)  
+- [Files in This Repository](#-files-in-this-repository)  
+- [Dashboard](#-dashboard)  
+- [How to Run the Project](#-how-to-run-the-project)  
+- [Key Insights & Findings](#-key-insights--findings)  
+- [Future Work / Business Recommendations](#-future-work--business-recommendations)  
+- [Conclusion](#-conclusion)  
+- [Contact](#-contact)  
 
 ---
 
